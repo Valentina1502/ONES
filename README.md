@@ -1,5 +1,4 @@
 # ONES
-adddddddddd
-vvvvvv
-hhhhhh
+Фаил  README содержит информацию о проекте
+
 изменение файла
