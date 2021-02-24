@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# добавим файл с данными для подключенния к БД
+DB_connect.txt
+
 # C extensions
 *.so
 
