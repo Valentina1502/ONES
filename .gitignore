@@ -1,10 +1,11 @@
-# Byte-compiled / optimized / DLL files
+﻿# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# добавим файл с данными для подключенния к БД
+# файл с данными для подключенния к БД
 DB_connect.txt
+bdconnect.txt
 
 # C extensions
 *.so
